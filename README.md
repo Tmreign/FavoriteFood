@@ -10,5 +10,8 @@ Installed Android Studio with latest dependecies
  git fork from my online repo
  git clone to your machine inside the folder
   move to android and open the project from there
+  
+  ## Authors
+  * **tom reign** - *Initial work* - [tmreign](https://github.com/tmreign)
 
 
