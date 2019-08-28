@@ -14,7 +14,7 @@ Installed Android Studio with latest dependecies
   ## Authors
   * **tom reign** - *Initial work* - [tmreign](https://github.com/tmreign)
   
-  ##contacts
+## contacts
   
   tomwanyoike9@gmail.com
   
